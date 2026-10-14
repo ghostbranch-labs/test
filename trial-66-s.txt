@@ -1,0 +1,1 @@
+A throwaway feature for the 6.6 docs samples.
